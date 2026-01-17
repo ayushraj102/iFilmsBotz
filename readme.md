@@ -1,8 +1,3 @@
-## WELCOME TO MY GITHUB ACCOUNT 👋
-
-I am Ayush Raj | CSE Student at IILM University | Python Enthusiast | GitHub Projects | Basic App Deployment
----
-
 ## DO YOU KNOW ME?
 
 - 🔭 I’m Currently Working On Tele Bots.
